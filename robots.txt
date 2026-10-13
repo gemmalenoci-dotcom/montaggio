@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://montaggio.unlikeacademy.it/sitemap.xml
